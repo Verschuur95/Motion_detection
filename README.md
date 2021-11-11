@@ -1,4 +1,4 @@
 # Motion_detection
 Automatic motion detection in T2-weighted neonatal MRI scans.
 
-![plot](https://github.com/Verschuur95/Motion_detection/Peakdetection_motion.jpg?raw=true)
+![Peakdetection_motion](Peakdetection_motion.jpg)
